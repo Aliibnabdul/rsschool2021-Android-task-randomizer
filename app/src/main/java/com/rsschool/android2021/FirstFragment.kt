@@ -106,5 +106,4 @@ class FirstFragment : Fragment(R.layout.fragment_first), FirstFragmentInterface 
         }
         return isValid
     }
-
 }
